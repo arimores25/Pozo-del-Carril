@@ -1,0 +1,6 @@
+{
+  "name": "Pozo del Carril - Gestión Ganadera",
+  "description": "Sistema integral de gestión ganadera bovina y contabilidad con Google Sheets como base de datos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
